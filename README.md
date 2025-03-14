@@ -32,7 +32,9 @@ One of the challenges I faced is the large amount of possibilities, due to the i
 
 To optimize my current program, I try to introduce an algorithm, where it can use information from lesser guess to come out with a workable set of posibilities. 
 Lets compare now vs new algorithm:
-Now:![image](https://github.com/user-attachments/assets/a23482a5-d155-467e-a8dc-c74ac3aba674)
+Now:
+
+![image](https://github.com/user-attachments/assets/a23482a5-d155-467e-a8dc-c74ac3aba674)
 
 You will need to play 8-9 rounds, get the numbers to use the program
 1. First list out all the posibilities of already guessed number (eg. 3741990774), which has 151200 posible combination.
