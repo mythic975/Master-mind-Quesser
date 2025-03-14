@@ -7,11 +7,15 @@ This is a game origin from "master mind" aka "Bulls and cows", where I would pla
 2. Game Rules
 
 The game is simple, one person came out with a code that act as the answer (eg. 14155), another person will need to guess the answer via trial & Error. Each round, the guesser will make a guess, and will recieve 2 hint based on the guess, number & position.
+
 For example:
 Answer : 3456
 Guess : 9953
+
 Number (N) = 2, 3 and 5 are correct 
+
 Position (P) = 1, only 5 is correct 
+
 My usual target is to guess the answer by (number of digit of answer + 2) rounds, So 10 digit answer would take 12 rounds.
 
 3. Current model
