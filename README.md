@@ -50,13 +50,6 @@ You will need to play only 5-6 round, get the numbers to use the program
 
 My idea is, just guess the type of number, dont need to know each of them individually, (eg. know the answer have 1,2,3,4 , dont need to know the answer have 1111,222,33,4)
 
-6. Mathematical problem
-
-I can't really find the solution to the part where I am stucked, which is the list out all the possibilities of 10 digits combinations, given 6 type of digits. eg ( 1222223456 is one of the combination, type is 123456 )
-![image](https://github.com/user-attachments/assets/8836815d-6cf6-4705-8d29-61949436fca9)
-
-I tried asking ChatGPT for solution, but the answer doesn't even make sense. The result is 12,697,896,960, which is even larger than 10^10. 
-Without this solution, I cannot proceed to the next step
 
 
 
